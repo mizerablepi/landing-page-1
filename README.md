@@ -1,0 +1,1 @@
+A sample landing page created entirely in plain css. Feel free to use this.
